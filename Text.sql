@@ -1,0 +1,4 @@
+UPDATE LocalizedText SET Text = "Build 6 Farms or 6 Terrace Farms." WHERE Tag = "LOC_BOOST_TRIGGER_FEUDALISM";
+INSERT OR REPLACE INTO LocalizedText (Language, Tag, Text)
+VALUES ("en_US", "LOC_BOOST_TRIGGER_SAILOR_PLACEHOLDER", ""), ("en_US", "LOC_BOOST_TRIGGER_LONGDESC_SAILOR_PLACEHOLDER", "");
+		
